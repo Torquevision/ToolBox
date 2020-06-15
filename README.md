@@ -17,6 +17,15 @@ This repository is for making a list of all the libraries and tools we use in ou
 
 <hr>
 
+## Format
+
+> ### Package/Library Name
+> ### Description
+> ### Documentation Link
+> ### Helpful Info/Links
+
+<hr>
+
 ## 2. Python
 
 * ### Libraries

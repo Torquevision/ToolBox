@@ -17,16 +17,16 @@ This repository is for making a list of all the libraries and tools we use in ou
 
 <hr>
 
-## Format
-
-> ### Package/Library Name
-> ### Description
-> ### Documentation Link
-> ### Helpful Info/Links
-
+## 2. Format
+```
+Package/Library Name : Django
+Description : Web Framework
+Documentation Link : https://www.djangoproject.com/ 
+Helpful Info/Links : Content/Course You know are good
+```
 <hr>
 
-## 2. Python
+## 3. Python
 
 * ### Libraries
 <hr>

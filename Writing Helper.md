@@ -10,13 +10,18 @@ We will need to organize our content and presence in coming time. this will help
 ## 1. Emailing
 <hr>
 
-* [*The Follow-Up Is the Most Important Email You’ll Ever Write*]("https://forge.medium.com/the-follow-up-is-the-most-important-email-youll-ever-write-3fbcfc17ebb4")
+* [*The Follow-Up Is the Most Important Email You’ll Ever Write*](https://forge.medium.com/the-follow-up-is-the-most-important-email-youll-ever-write-3fbcfc17ebb4)
 
 <br>
 
 ## 2. General Content
 <hr>
 
-* [*How to Write Anything*]("https://forge.medium.com/how-to-write-anything-ad2a62c122f6")
+* [*How to Write Anything*](https://forge.medium.com/how-to-write-anything-ad2a62c122f6)
 
 <br>
+
+## Technology
+<hr>
+
+* [*The beginner’s advanced guide to building an app*](https://uxdesign.cc/break-it-down-or-the-making-of-an-app-part-i-b2f260c2dffb)

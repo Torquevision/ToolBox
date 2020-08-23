@@ -31,3 +31,9 @@ Helpful Info/Links : Content/Course You know are good
 * ### Libraries
 <hr>
 
+## Reference
+> find writing helpers [***here***](/Writing\ Helper.md)
+
+> find libraries [***here***](/libraries.md)
+
+> find instance segmentation helper functions [***here***](/instance_segmentation_utils)
